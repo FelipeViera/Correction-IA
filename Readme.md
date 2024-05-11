@@ -9,6 +9,20 @@ Conquistar a tão sonhada nota máxima e abrir as portas para o seu futuro!
 Junte-se a nós nesta jornada de aprimoramento e conquiste o sucesso no ENEM!
 </p>
 <h2> Funcionalidades</h2>
+<ul>
+<li> 
+Você escolhe o tema, escreve a sua redação, e o Correction-IA fará a 
+correção dela. Colocando uma possível nota e dicas de como melhorá-la.
+</li>
+</ul>
+
+<h2> Acesso ao Projeto</h2>
 <ol>
-<li> Você digita </li>
+<li> Clone o repositório. </li>
+<li> 
+Abra alguma ferramenta de edição de código (Exemplos: Pycharm e Visual Studio Code)
+</li>
+<li> 
+Execute o arquivo main.py
+</li>
 </ol>
